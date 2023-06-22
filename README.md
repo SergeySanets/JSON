@@ -1,5 +1,6 @@
 1). Создать внешний репозиторий c названием JSON.
 2). Клонировать репозиторий JSON на локальный компьютер.
+
  git clone https://github.com/SergeySanets/JSON.git
 
 3). Внутри локального JSON создать файл “new.json”.
